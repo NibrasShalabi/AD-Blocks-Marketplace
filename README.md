@@ -1,4 +1,3 @@
-@'
 # Ad Blocks Marketplace
 
 A paid advertising platform built with a block-grid layout, inspired by the Million Dollar Homepage concept. Users purchase blocks in a grid and fill them with an image and an external link. The platform is organized into categories, with a dedicated VIP advertising system.
@@ -59,4 +58,4 @@ flutter run -d chrome
 ## Note
 
 This project is under active development. The current interface is for display only and uses mock data.
-'@ | Out-File -FilePath README.md -Encoding utf8
+ | Out-File -FilePath README.md -Encoding utf8
